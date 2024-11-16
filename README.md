@@ -27,7 +27,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 | Name of Topic                                     | Number of Rooms | Number of Completed Rooms |
 | ------------------------------------------------- | :-------------: | :-----------------------: |
-| **[Introductory Rooms](#intro-rooms)**            |     **19**      |           **10**          |
+| **[Introductory Rooms](#intro-rooms)**            |     **19**      |           **11**          |
 | **[Linux Fundamentals](#linux-fundamentals)**     |      **4**      |                           |
 | **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |                           |
 | **[Basic Rooms](#basics-rooms)**                  |     **13**      |                           |
@@ -61,7 +61,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 - [TryHackMe | Web Application Basics](https://tryhackme.com/r/room/webapplicationbasics)
 - [TryHackMe | Cryptography Basics - COMPLETE](https://tryhackme.com/r/room/cryptographybasics)
 - [TryHackMe | CyberChef: The Basics](https://tryhackme.com/r/room/cyberchefbasics)
-- [TryHackMe | SOC Fundamentals](https://tryhackme.com/r/room/socfundamentals)
+- [TryHackMe | SOC Fundamentals - COMPLETE](https://tryhackme.com/r/room/socfundamentals)
 - [TryHackMe | Networking Concepts](https://tryhackme.com/r/room/networkingconcepts)
 - [TryHackMe | Search Skills](https://tryhackme.com/r/room/searchskills)
 - [TryHackMe | Windows Command Line](https://tryhackme.com/r/room/windowscommandline)
