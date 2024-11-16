@@ -27,8 +27,8 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 | Name of Topic                                     | Number of Rooms | Number of Completed Rooms |
 | ------------------------------------------------- | :-------------: | :-----------------------: |
-| **[Introductory Rooms](#intro-rooms)**            |     **19**      |                           |
-| **[Linux Fundamentals](#linux-fundamentals)**     |      **4**      |           **5**           |
+| **[Introductory Rooms](#intro-rooms)**            |     **19**      |           **10**          |
+| **[Linux Fundamentals](#linux-fundamentals)**     |      **4**      |                           |
 | **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |                           |
 | **[Basic Rooms](#basics-rooms)**                  |     **13**      |                           |
 | **[Reconnaissance](#recon)**                      |     **10**      |                           |
@@ -59,7 +59,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 ## Intro Rooms
 
 - [TryHackMe | Web Application Basics](https://tryhackme.com/r/room/webapplicationbasics)
-- [TryHackMe | Cryptography Basics](https://tryhackme.com/r/room/cryptographybasics)
+- [TryHackMe | Cryptography Basics - COMPLETE](https://tryhackme.com/r/room/cryptographybasics)
 - [TryHackMe | CyberChef: The Basics](https://tryhackme.com/r/room/cyberchefbasics)
 - [TryHackMe | SOC Fundamentals](https://tryhackme.com/r/room/socfundamentals)
 - [TryHackMe | Networking Concepts](https://tryhackme.com/r/room/networkingconcepts)
@@ -70,31 +70,31 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 - [TryHackMe | Introduction to CryptOps](https://tryhackme.com/r/room/introductiontocryptops)
 - [TryHackMe |  File System Analysis](https://tryhackme.com/r/room/filesystemanalysis)
 - [TryHackMe | Threat Hunting: Foothold](https://tryhackme.com/room/threathuntingfoothold)
-- [TryHackMe | Threat Hunting: Introduction](https://tryhackme.com/room/introductiontothreathunting)
+- [TryHackMe | Threat Hunting: Introduction - COMPLETE](https://tryhackme.com/room/introductiontothreathunting)
 - [TryHackMe | Preparation](https://tryhackme.com/room/preparation)
 
 - [TryHackMe | Intro to Logs](https://tryhackme.com/room/introtologs)
 
 - [TryHackMe | Intro to Threat Emulation](https://tryhackme.com/room/threatemulationintro)
 
-- [TryHackMe | Security Engineer Intro](https://tryhackme.com/room/securityengineerintro)
+- [TryHackMe | Security Engineer Intro - COMPLETE](https://tryhackme.com/room/securityengineerintro)
 - [TryHackMe | Intro to Docker](https://tryhackme.com/room/introtodockerk8pdqk)
 
 - [TryHackMe | SDLC](https://tryhackme.com/room/sdlc)
 
-- [TryHackMe | Welcome](https://tryhackme.com/room/hello)
+- [TryHackMe | Welcome - COMPLETE](https://tryhackme.com/room/hello)
 
-- [TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
+- [TryHackMe | How to use TryHackMe - COMPLETE](https://tryhackme.com/room/howtousetryhackme)
 
-- [TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
+- [TryHackMe | Tutorial - COMPLETE](https://tryhackme.com/room/tutorial)
 
-- [TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
+- [TryHackMe | OpenVPN - COMPLETE](https://tryhackme.com/room/openvpn)
 
-- [TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
+- [TryHackMe | Learning Cyber Security - COMPLETE](https://tryhackme.com/room/beginnerpathintro)
 
-- [TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
+- [TryHackMe | Starting Out In Cyber Sec - COMPLETE](https://tryhackme.com/room/startingoutincybersec)
 
-- [TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)
+- [TryHackMe | Introductory Researching - COMPLETE](https://tryhackme.com/room/introtoresearch)
 
 - [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
 
