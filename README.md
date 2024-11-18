@@ -4,7 +4,7 @@
 
 Hey people, here's a list of **390+ Free TryHackMe rooms** to start learning hacking. I have arranged & compiled them according to different topics so that you can start hacking right now and also!
 
-All the rooms herein, are absolute free. ATTACK!!
+All the rooms herein, are absolutely free. ATTACK!!
 
 ## Maintainer
 
@@ -12,7 +12,7 @@ All the rooms herein, are absolute free. ATTACK!!
 
 ## NEWS
 
-Practice, Practice and Practice...! it'll all finally fall into place. No shortcut folks :)
+Hey cyber-hard guys, this year's [Advent of Cyber](https://tryhackme.com/r/room/adventofcyber2024) is on. Remember to check it out come December 2024. It'll help you up your game or solidify it.
 
 ## HOW YOU CAN SUPPORT
 
@@ -456,6 +456,7 @@ In case you need deeper study into Linux read follow these:
 
 ## Easy CTF
 
+- [TryHackMe | Threat Hunting With YARA](https://tryhackme.com/r/room/threathuntingwithyara)
 - [TryHackMe | Whiterose](https://tryhackme.com/r/room/whiterose)
 - [TryHackMe | Pyrat](https://tryhackme.com/r/room/pyrat)
 - [TryHackMe | Cheese CTF](https://tryhackme.com/r/room/cheesectfv10)
@@ -969,6 +970,8 @@ In case you need deeper study into Linux read follow these:
 - [TryHackMe | Advent of Cyber 2022](https://tryhackme.com/room/adventofcyber4)
 
 - [TryHackMe | Advent of Cyber 2023](https://tryhackme.com/room/adventofcyber2023)
+
+- [TryHackMe | Advent of Cyber 2024](https://tryhackme.com/r/room/adventofcyber2024)
 
 - [TryHackMe | Advent of Cyber '23 Side Quest](https://tryhackme.com/room/adventofcyber23sidequest)
 
