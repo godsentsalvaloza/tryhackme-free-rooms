@@ -27,7 +27,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 | Name of Topic                                     | Number of Rooms | Number of Completed Rooms |
 | ------------------------------------------------- | :-------------: | :-----------------------: |
-| **[Introductory Rooms](#intro-rooms)**            |     **27**      |           **11**          |
+| **[Introductory Rooms](#intro-rooms)**            |     **27**      |           **12**          |
 | **[Linux Fundamentals](#linux-fundamentals)**     |      **4**      |                           |
 | **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |                           |
 | **[Basic Rooms](#basics-rooms)**                  |     **13**      |                           |
@@ -80,7 +80,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 - [TryHackMe | Security Engineer Intro - COMPLETE](https://tryhackme.com/room/securityengineerintro)
 - [TryHackMe | Intro to Docker](https://tryhackme.com/room/introtodockerk8pdqk)
 
-- [TryHackMe | SDLC](https://tryhackme.com/room/sdlc)
+- [TryHackMe | SDLC - COMPLETE](https://tryhackme.com/room/sdlc)
 
 - [TryHackMe | Welcome - COMPLETE](https://tryhackme.com/room/hello)
 
