@@ -181,13 +181,9 @@ In case you need deeper study into Linux read follow these:
 
 ## Networking
 
-- [TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)
+- [TryHackMe | Introductory Networking - COMPLETE](https://tryhackme.com/room/introtonetworking)
 
-- [TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
-
-- [TryHackMe | Networking](https://tryhackme.com/room/bpnetworking)
-
-- [TryHackMe | Intro to LAN](https://tryhackme.com/room/introtolan)
+- [TryHackMe | What is Networking? - COMPLETE](https://tryhackme.com/room/whatisnetworking)
 
 - [TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail)
 
