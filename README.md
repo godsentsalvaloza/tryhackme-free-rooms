@@ -33,7 +33,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 | **[Basic Rooms](#basics-rooms)**                  |     **13**      |                           |
 | **[Reconnaissance](#recon)**                      |     **10**      |                           |
 | **[Scripting](#scripting)**                       |      **7**      |                           |
-| **[Networking](#networking)**                     |      **7**      |                           |
+| **[Networking](#networking)**                     |      **5**      |            **2**          |
 | **[Tooling](#tooling)**                           |     **19**      |                           |
 | **[Crypto & Hashes](#cryptography--hashes)**      |      **7**      |                           |
 | **[Steganography](#steganography)**               |      **6**      |                           |
