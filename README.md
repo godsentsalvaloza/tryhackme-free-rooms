@@ -33,7 +33,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 | **[Basic Rooms](#basics-rooms)**                  |     **13**      |                           |
 | **[Reconnaissance](#recon)**                      |     **10**      |                           |
 | **[Scripting](#scripting)**                       |      **7**      |                           |
-| **[Networking](#networking)**                     |      **5**      |            **2**          |
+| **[Networking](#networking)**                     |      **5**      |            **3**          |
 | **[Tooling](#tooling)**                           |     **19**      |                           |
 | **[Crypto & Hashes](#cryptography--hashes)**      |      **7**      |                           |
 | **[Steganography](#steganography)**               |      **6**      |                           |
@@ -185,7 +185,7 @@ In case you need deeper study into Linux read follow these:
 
 - [TryHackMe | What is Networking? - COMPLETE](https://tryhackme.com/room/whatisnetworking)
 
-- [TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail)
+- [TryHackMe | HTTP in detail - COMPLETE](https://tryhackme.com/room/httpindetail)
 
 - [TryHackMe | DNS in detail](https://tryhackme.com/room/dnsindetail)
 
