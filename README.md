@@ -29,7 +29,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 | ------------------------------------------------- | :-------------: | :-----------------------: |
 | **[Introductory Rooms](#intro-rooms)**            |     **27**      |           **13**          |
 | **[Linux Fundamentals](#linux-fundamentals)**     |      **4**      |                           |
-| **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |                           |
+| **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |            **1**          |
 | **[Basic Rooms](#basics-rooms)**                  |     **13**      |                           |
 | **[Reconnaissance](#recon)**                      |     **10**      |                           |
 | **[Scripting](#scripting)**                       |      **7**      |                           |
@@ -110,7 +110,7 @@ In case you need deeper study into Linux read follow these:
 
 ## Windows Fundamentals
 
-- [TryHackMe | Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)
+- [TryHackMe | Windows Fundamentals 1 - COMPLETE](https://tryhackme.com/room/windowsfundamentals1xbx)
 - [TryHackMe | Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
 - [TryHackMe | Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)
 
