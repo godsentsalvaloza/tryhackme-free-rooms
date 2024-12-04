@@ -32,7 +32,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 | **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |            **3**          |
 | **[Basic Rooms](#basics-rooms)**                  |     **13**      |                           |
 | **[Reconnaissance](#recon)**                      |     **10**      |                           |
-| **[Scripting](#scripting)**                       |      **7**      |                           |
+| **[Scripting](#scripting)**                       |      **7**      |            **1**          |
 | **[Networking](#networking)**                     |      **5**      |            **4**          |
 | **[Tooling](#tooling)**                           |     **19**      |                           |
 | **[Crypto & Hashes](#cryptography--hashes)**      |      **7**      |                           |
@@ -165,7 +165,7 @@ In case you need deeper study into Linux read follow these:
 
 ## Scripting
 
-- [TryHackMe | Python Basics](https://tryhackme.com/room/pythonbasics)
+- [TryHackMe | Python Basics - COMPLETE](https://tryhackme.com/room/pythonbasics)
 
 - [TryHackMe | Python Playground](https://tryhackme.com/room/pythonplayground)
 
