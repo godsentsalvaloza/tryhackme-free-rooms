@@ -28,7 +28,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 | Name of Topic                                     | Number of Rooms | Number of Completed Rooms |
 | ------------------------------------------------- | :-------------: | :-----------------------: |
 | **[Introductory Rooms](#intro-rooms)**            |     **27**      |           **14**          |
-| **[Linux Fundamentals](#linux-fundamentals)**     |      **4**      |                           |
+| **[Linux Fundamentals](#linux-fundamentals)**     |      **4**      |            **1**          |
 | **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |            **3**          |
 | **[Basic Rooms](#basics-rooms)**                  |     **13**      |                           |
 | **[Reconnaissance](#recon)**                      |     **10**      |                           |
@@ -101,7 +101,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 ## Linux Fundamentals
 
 - [TryHackMe |  Modules](https://tryhackme.com/room/linuxmodules)
-- [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
+- [TryHackMe | Linux Fundamentals Part 1 - COMPLETE](https://tryhackme.com/room/linuxfundamentalspart1)
 - [Basics of Linux](https://linuxjourney.com/) -- added this since the funcdamentals rooms were all made premium.
 
 In case you need deeper study into Linux read follow these:
