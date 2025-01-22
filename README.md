@@ -59,19 +59,19 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 ## Intro Rooms
 
 - [TryHackMe | Web Application Basics](https://tryhackme.com/r/room/webapplicationbasics)
-- [TryHackMe | Cryptography Basics](https://tryhackme.com/r/room/cryptographybasics)
+- [TryHackMe | Cryptography Basics - COMPLETE](https://tryhackme.com/r/room/cryptographybasics)
 - [TryHackMe | CyberChef: The Basics](https://tryhackme.com/r/room/cyberchefbasics)
-- [TryHackMe | SOC Fundamentals](https://tryhackme.com/r/room/socfundamentals)
-- [TryHackMe | Networking Concepts](https://tryhackme.com/r/room/networkingconcepts)
+- [TryHackMe | SOC Fundamentals - COMPLETE](https://tryhackme.com/r/room/socfundamentals)
+- [TryHackMe | Networking Concepts - COMPLETE](https://tryhackme.com/r/room/networkingconcepts)
 - [TryHackMe | Search Skills](https://tryhackme.com/r/room/searchskills)
-- [TryHackMe | Windows Command Line](https://tryhackme.com/r/room/windowscommandline)
-- [TryHackMe | Hosted Hypervisors](https://tryhackme.com/r/room/hostedhypervisors)
+- [TryHackMe | Windows Command Line - COMPLETE](https://tryhackme.com/r/room/windowscommandline)
+- [TryHackMe | Hosted Hypervisors - COMPLETE](https://tryhackme.com/r/room/hostedhypervisors)
 - [TryHackMe | Enumeration & Brute Force](https://tryhackme.com/r/room/enumerationbruteforce)
 - [TryHackMe | Introduction to CryptOps](https://tryhackme.com/r/room/introductiontocryptops)
 - [TryHackMe |  File System Analysis](https://tryhackme.com/r/room/filesystemanalysis)
 - [TryHackMe | Threat Hunting: Foothold](https://tryhackme.com/room/threathuntingfoothold)
-- [TryHackMe | Threat Hunting: Introduction](https://tryhackme.com/room/introductiontothreathunting)
-- [TryHackMe | Preparation](https://tryhackme.com/room/preparation)
+- [TryHackMe | Threat Hunting: Introduction - COMPLETE](https://tryhackme.com/room/introductiontothreathunting)
+- [TryHackMe | Preparation - COMPLETE](https://tryhackme.com/room/preparation)
 
 - [TryHackMe | Intro to Logs](https://tryhackme.com/room/introtologs)
 
