@@ -110,9 +110,9 @@ In case you need deeper study into Linux read follow these:
 
 ## Windows Fundamentals
 
-- [TryHackMe | Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)
-- [TryHackMe | Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
-- [TryHackMe | Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)
+- [TryHackMe | Windows Fundamentals 1 - COMPLETE](https://tryhackme.com/room/windowsfundamentals1xbx)
+- [TryHackMe | Windows Fundamentals 2 - COMPLETE](https://tryhackme.com/room/windowsfundamentals2x0x)
+- [TryHackMe | Windows Fundamentals 3 - COMPLETE](https://tryhackme.com/room/windowsfundamentals3xzx)
 
 ## Basics Rooms
 
