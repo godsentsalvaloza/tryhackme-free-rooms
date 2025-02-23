@@ -58,7 +58,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Intro Rooms
 
-- [TryHackMe | Web Application Basics](https://tryhackme.com/r/room/webapplicationbasics)
+- [TryHackMe | Web Application Basics - COMPLETE](https://tryhackme.com/r/room/webapplicationbasics)
 - [TryHackMe | Cryptography Basics - COMPLETE](https://tryhackme.com/r/room/cryptographybasics)
 - [TryHackMe | CyberChef: The Basics - COMPLETE](https://tryhackme.com/r/room/cyberchefbasics)
 - [TryHackMe | SOC Fundamentals - COMPLETE](https://tryhackme.com/r/room/socfundamentals)
