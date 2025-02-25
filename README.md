@@ -67,7 +67,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 - [TryHackMe | Windows Command Line - COMPLETE](https://tryhackme.com/r/room/windowscommandline)
 - [TryHackMe | Hosted Hypervisors - COMPLETE](https://tryhackme.com/r/room/hostedhypervisors)
 - [TryHackMe | Enumeration & Brute Force](https://tryhackme.com/r/room/enumerationbruteforce)
-- [TryHackMe | Introduction to CryptOps](https://tryhackme.com/r/room/introductiontocryptops)
+- [TryHackMe | Introduction to CryptOps - COMPLETE](https://tryhackme.com/r/room/introductiontocryptops)
 - [TryHackMe |  File System Analysis](https://tryhackme.com/r/room/filesystemanalysis)
 - [TryHackMe | Threat Hunting: Foothold](https://tryhackme.com/room/threathuntingfoothold)
 - [TryHackMe | Threat Hunting: Introduction - COMPLETE](https://tryhackme.com/room/introductiontothreathunting)
